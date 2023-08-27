@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508478326465",
+    "project_id": "imgtotxtdemo",
+    "storage_bucket": "imgtotxtdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508478326465:android:9c55b920966326d77e7640",
+        "android_client_info": {
+          "package_name": "com.example.imgtotxtdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508478326465-t287ds0l9muui8mbhnk1jc7vlgtlcp3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhEIzX1JUnWh3ju1nnnLB0zrACVorCM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508478326465-t287ds0l9muui8mbhnk1jc7vlgtlcp3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
